@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3d83f13c-003c-4666-a1d5-389c89224485" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1hcincWoAGgbvgnkPW8fvgd3n32" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunManager" selected="Application.f">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="f" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="f" />
+      <module name="proj1b" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestOffByN" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="proj1b" />
+      <useClassPathOnly />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestOffByN" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestOffByOne" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="proj1b" />
+      <useClassPathOnly />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestOffByOne" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestOffByOne.testOffByeOne" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="proj1b" />
+      <useClassPathOnly />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestOffByOne" />
+      <option name="METHOD_NAME" value="testOffByeOne" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestPalindrome" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="proj1b" />
+      <useClassPathOnly />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestPalindrome" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestPalindrome.testisPalindrome" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="proj1b" />
+      <useClassPathOnly />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestPalindrome" />
+      <option name="METHOD_NAME" value="testisPalindrome" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestPalindrome.testisPalindromecc" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="proj1b" />
+      <useClassPathOnly />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestPalindrome" />
+      <option name="METHOD_NAME" value="testisPalindromecc" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <useClassPathOnly />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-XX:+ShowCodeDetailsInExceptionMessages" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.f" />
+        <item itemvalue="JUnit.TestOffByN" />
+        <item itemvalue="JUnit.TestOffByOne.testOffByeOne" />
+        <item itemvalue="JUnit.TestOffByOne" />
+        <item itemvalue="JUnit.TestPalindrome.testisPalindromecc" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3d83f13c-003c-4666-a1d5-389c89224485" name="Default Changelist" comment="" />
+      <created>1600316948642</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600316948642</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2208" y="191" key="#com.intellij.ide.util.MemberChooser" timestamp="1600318278928">
+      <screen x="1440" y="-26" width="1920" height="1057" />
+    </state>
+    <state x="2208" y="191" key="#com.intellij.ide.util.MemberChooser/0.23.1440.830/1440.-26.1920.1057@1440.-26.1920.1057" timestamp="1600318278928" />
+    <state width="1398" height="266" key="GridCell.Tab.0.bottom" timestamp="1600845171108">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state width="1398" height="266" key="GridCell.Tab.0.bottom/0.23.1440.830/1440.-26.1920.1057@1440.-26.1920.1057" timestamp="1600452032774" />
+    <state width="1398" height="266" key="GridCell.Tab.0.bottom/0.23.1440.830@0.23.1440.830" timestamp="1600845171108" />
+    <state width="1398" height="266" key="GridCell.Tab.0.center" timestamp="1600845171108">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state width="1398" height="266" key="GridCell.Tab.0.center/0.23.1440.830/1440.-26.1920.1057@1440.-26.1920.1057" timestamp="1600452032773" />
+    <state width="1398" height="266" key="GridCell.Tab.0.center/0.23.1440.830@0.23.1440.830" timestamp="1600845171108" />
+    <state width="1398" height="266" key="GridCell.Tab.0.left" timestamp="1600845171107">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state width="1398" height="266" key="GridCell.Tab.0.left/0.23.1440.830/1440.-26.1920.1057@1440.-26.1920.1057" timestamp="1600452032772" />
+    <state width="1398" height="266" key="GridCell.Tab.0.left/0.23.1440.830@0.23.1440.830" timestamp="1600845171107" />
+    <state width="1398" height="266" key="GridCell.Tab.0.right" timestamp="1600845171108">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state width="1398" height="266" key="GridCell.Tab.0.right/0.23.1440.830/1440.-26.1920.1057@1440.-26.1920.1057" timestamp="1600452032773" />
+    <state width="1398" height="266" key="GridCell.Tab.0.right/0.23.1440.830@0.23.1440.830" timestamp="1600845171108" />
+    <state width="1398" height="266" key="GridCell.Tab.1.bottom" timestamp="1600845171111">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state width="1398" height="266" key="GridCell.Tab.1.bottom/0.23.1440.830/1440.-26.1920.1057@1440.-26.1920.1057" timestamp="1600452032776" />
+    <state width="1398" height="266" key="GridCell.Tab.1.bottom/0.23.1440.830@0.23.1440.830" timestamp="1600845171111" />
+    <state width="1398" height="266" key="GridCell.Tab.1.center" timestamp="1600845171110">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state width="1398" height="266" key="GridCell.Tab.1.center/0.23.1440.830/1440.-26.1920.1057@1440.-26.1920.1057" timestamp="1600452032775" />
+    <state width="1398" height="266" key="GridCell.Tab.1.center/0.23.1440.830@0.23.1440.830" timestamp="1600845171110" />
+    <state width="1398" height="266" key="GridCell.Tab.1.left" timestamp="1600845171109">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state width="1398" height="266" key="GridCell.Tab.1.left/0.23.1440.830/1440.-26.1920.1057@1440.-26.1920.1057" timestamp="1600452032774" />
+    <state width="1398" height="266" key="GridCell.Tab.1.left/0.23.1440.830@0.23.1440.830" timestamp="1600845171109" />
+    <state width="1398" height="266" key="GridCell.Tab.1.right" timestamp="1600845171111">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state width="1398" height="266" key="GridCell.Tab.1.right/0.23.1440.830/1440.-26.1920.1057@1440.-26.1920.1057" timestamp="1600452032775" />
+    <state width="1398" height="266" key="GridCell.Tab.1.right/0.23.1440.830@0.23.1440.830" timestamp="1600845171111" />
+    <state x="1883" y="59" key="SettingsEditor" timestamp="1600317259020">
+      <screen x="1440" y="-26" width="1920" height="1057" />
+    </state>
+    <state x="1883" y="59" key="SettingsEditor/0.23.1440.830/1440.-26.1920.1057@1440.-26.1920.1057" timestamp="1600317259020" />
+    <state x="2060" y="207" width="670" height="676" key="search.everywhere.popup" timestamp="1600329048639">
+      <screen x="1440" y="-26" width="1920" height="1057" />
+    </state>
+    <state x="2060" y="207" width="670" height="676" key="search.everywhere.popup/0.23.1440.830/1440.-26.1920.1057@1440.-26.1920.1057" timestamp="1600329048639" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Palindrome.java</url>
+          <line>11</line>
+          <properties class="Palindrome" method="isPalindrome">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Palindrome.java</url>
+          <line>23</line>
+          <properties class="Palindrome" method="isPalindrome">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
